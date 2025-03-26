@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "شورى للخدمات القانونية",
+  "alternateName": "Shwra",
+  "url": "https://www.shwra.sa/ar/",
+  "logo": "https://www.shwra.sa/_next/static/media/ShwraLogo.52933a61.svg",
+  "description": "شورى للخدمات القانونية هي منصة إلكترونية تقدم خدمات واستشارات قانونية للأفراد والشركات وأصحاب الأعمال، من خلال ربطهم بمحامين متخصصين ومرخصين من وزارة العدل السعودية. تعمل شورى على مدار الساعة في جميع مناطق المملكة، مع ضمان المهنية والجودة والسرية. كما تقدم باقات خدمات مخصصة لتلبية الاحتياجات القانونية للشركات وأصحاب الأعمال بتكلفة عادلة.",
+  "telephone": "920033635",
+  "email": "info@shwra.sa",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Prince Muhammad Ibn Saad Ibn Abdulaziz Rd Al Qirawan",
+    "addressLocality": "Riyadh",
+    "addressRegion": "Riyadh",
+    "postalCode": "13532",
+    "addressCountry": "SA"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "24.789582",
+    "longitude": "46.631272"
+  },
+  "sameAs": [
+    "https://x.com/shwraApp",
+    "https://www.linkedin.com/company/shwraapp/",
+    "https://www.instagram.com/shwraapp/",
+    "https://www.facebook.com/people/%D8%B4%D9%88%D8%B1%D9%89-Shwra/61553127944298/?mibextid=LQQJ4d",
+    "https://www.tiktok.com/@shwraapp?is_from_webapp=1&sender_device=pc"
+  ],
+  "serviceType": "استشارات وخدمات قانونية",
+  "areaServed": {
+    "@type": "Country",
+    "name": "Saudi Arabia"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+966550592033",
+      "contactType": "customer service",
+      "availableLanguage": ["Arabic", "English"]
+    }
+  ],
+  "legalName": "شورى للخدمات القانونية"
+}
