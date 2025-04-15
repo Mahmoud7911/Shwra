@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.shwra.sa/ar/blogs/رفع-دعوى-حضانة"
+  },
+  "headline": "title",
+  "description": "meta",
+  "image": "https://www.shwra.sa/path-to-thumbnail.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Adel Alqahtani",
+    "url": "https://www.shwra.sa/ar/authors/adel-alqahtani",
+    "sameAs": "https://www.linkedin.com/in/dr-adel-alqahtani-llb-llm-jsd-b6a668208/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "شورى للخدمات القانونية",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.shwra.sa/_next/static/media/ShwraLogo.52933a61.svg"
+    }
+  },
+  "datePublished": "2024-01-05T08:00:00+08:00",
+  "dateModified": "2024-02-05T09:20:00+08:00"
+}
+</script>
