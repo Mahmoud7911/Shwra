@@ -7,37 +7,29 @@
   "applicationCategory": "LegalService",
   "offers": {
     "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "SAR",
     "description": "التطبيق مجاني للتنزيل ويوفر خدمات استشارية قانونية مدفوعة داخل التطبيق."
   },
   "inAppPurchase": [
     {
       "@type": "Offer",
       "name": "الاستشارة الأساسية",
-      "price": "149",
-      "priceCurrency": "SAR",
       "description": "استشارة هاتفية مع محامي مرخص لمدة 20 دقيقة بعدد أسئلة غير محدود."
     },
     {
       "@type": "Offer",
       "name": "الاستشارة الذهبية",
-      "price": "499",
-      "priceCurrency": "SAR",
       "description": "استشارة هاتفية مع تفاصيل الاستشارة بمستند مكتوب وخصم 5% على الاستشارة القادمة."
     },
     {
       "@type": "Offer",
       "name": "الاستشارة البلاتينية",
-      "price": "999",
-      "priceCurrency": "SAR",
       "description": "كل مزايا الباقة الذهبية، مع استشارة مجانية إضافية لمدة 15 دقيقة ومدير حساب خاص بك لمتابعة طلباتك."
     }
   ],
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.5",
-    "ratingCount": "1200"
+    "ratingCount": "1240"
   },
   "description": "شورى هي منصة رقمية تقدم استشارات قانونية من محامين مرخصين عبر تطبيق الهاتف، مع إمكانية الحجز بسهولة وأمان.",
   "image": "https://www.shwra.sa/_next/static/media/ShwraLogo.52933a61.svg",
@@ -48,8 +40,8 @@
   ],
   "url": "https://www.shwra.sa/ar/",
   "downloadUrl": [
-    "https://apps.apple.com/sa/app/%D8%B4%D9%88%D8%B1%D9%89-%D9%84%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9/id1550113344",
-    "https://play.google.com/store/apps/details?id=sa.shwra.app",
+    "https://apps.apple.com/sa/app/%D8%B4%D9%88%D8%B1%D9%89-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%81%D9%88%D8%B1%D9%8A%D8%A9/id1550113344",
+    "https://play.google.com/store/apps/details?id=sa.shwra.app&hl=en",
     "https://appgallery.huawei.com/app/C106460597"
   ],
   "softwareVersion": "latest",
